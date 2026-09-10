@@ -260,6 +260,16 @@
       "platform": "IOS",
       "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
+    "APP_VERSION:c91c9c8e-8e4a-45e4-81b5-563b43466378": {
+      "app_id": "6758745743",
+      "app_name": "Tai Chi for Seniors Beginners",
+      "bundle_id": "com.taichisenior.yuanqifitness",
+      "entity_id": "c91c9c8e-8e4a-45e4-81b5-563b43466378",
+      "entity_type": "APP_VERSION",
+      "name": "2.2.2",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION"
+    },
     "APP_VERSION:cda7000d-d0ba-40dd-aee1-fbd8334d9d99": {
       "app_id": "6758745743",
       "app_name": "Tai Chi for Seniors Beginners",
@@ -866,7 +876,7 @@
       "entity_type": "IAE",
       "name": "Lasta Tai Chi Routine",
       "platform": "IOS",
-      "state": "PUBLISHED"
+      "state": "ARCHIVED"
     },
     "IAE:6803835533": {
       "app_id": "6767155434",
@@ -929,5 +939,5 @@
       "state": "APPROVED"
     }
   },
-  "updated_at": "2026-09-07T21:41:00.747690+00:00"
+  "updated_at": "2026-09-10T12:40:50.104922+00:00"
 }
