@@ -240,6 +240,16 @@
       "platform": "IOS",
       "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
+    "APP_VERSION:bae857f8-ef18-4688-960b-2fcf4aea1117": {
+      "app_id": "6767155434",
+      "app_name": "Chair Yoga Tai Chi Pilates Fit",
+      "bundle_id": "com.seniorchairyoga.yuanqifitness",
+      "entity_id": "bae857f8-ef18-4688-960b-2fcf4aea1117",
+      "entity_type": "APP_VERSION",
+      "name": "1.4.0",
+      "platform": "IOS",
+      "state": "WAITING_FOR_REVIEW"
+    },
     "APP_VERSION:bbbb0f44-adf7-4129-9b79-f7ed71f91706": {
       "app_id": "6758745743",
       "app_name": "Tai Chi for Seniors Beginners",
@@ -939,5 +949,5 @@
       "state": "APPROVED"
     }
   },
-  "updated_at": "2026-09-10T12:40:50.104922+00:00"
+  "updated_at": "2026-09-11T12:34:13.460945+00:00"
 }
