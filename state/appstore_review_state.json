@@ -180,6 +180,16 @@
       "platform": "IOS",
       "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
+    "APP_VERSION:862a46c1-89ff-48ec-adb8-5077c30d6413": {
+      "app_id": "6808559218",
+      "app_name": "Walking for Seniors: Flourish",
+      "bundle_id": "com.walkingforseniors.yuanqifitness",
+      "entity_id": "862a46c1-89ff-48ec-adb8-5077c30d6413",
+      "entity_type": "APP_VERSION",
+      "name": "1.0.0",
+      "platform": "IOS",
+      "state": "WAITING_FOR_REVIEW"
+    },
     "APP_VERSION:86f13910-8a30-4a5e-8b37-20a3386e7a8e": {
       "app_id": "6767155434",
       "app_name": "Chair Yoga Tai Chi Pilates Fit",
@@ -239,6 +249,16 @@
       "name": "1.2.3",
       "platform": "IOS",
       "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
+    },
+    "APP_VERSION:aac56989-5a2e-4c62-845b-766433f57991": {
+      "app_id": "6812701733",
+      "app_name": "Health, Recovery Tracker: Ezly",
+      "bundle_id": "com.healthdata.ezly.yuanqifitness",
+      "entity_id": "aac56989-5a2e-4c62-845b-766433f57991",
+      "entity_type": "APP_VERSION",
+      "name": "1.0.0",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION"
     },
     "APP_VERSION:b8b96d56-1260-408e-8f52-54e8ed18b84f": {
       "app_id": "6758745743",
@@ -597,6 +617,32 @@
       "platform": "IOS",
       "state": "APPROVED",
       "version": "1"
+    },
+    "GOOGLE_PLAY_RELEASE:com.seniorchairyoga.eab:production:-": {
+      "app_id": "com.seniorchairyoga.eab",
+      "app_name": "Chair Yoga",
+      "bundle_id": "com.seniorchairyoga.eab",
+      "entity_id": "com.seniorchairyoga.eab:production:-",
+      "entity_type": "GOOGLE_PLAY_RELEASE",
+      "name": "-",
+      "platform": "ANDROID",
+      "rollout": "-",
+      "state": "draft",
+      "track": "production",
+      "version": "-"
+    },
+    "GOOGLE_PLAY_RELEASE:com.seniorchairyoga.eab:production:122": {
+      "app_id": "com.seniorchairyoga.eab",
+      "app_name": "Chair Yoga",
+      "bundle_id": "com.seniorchairyoga.eab",
+      "entity_id": "com.seniorchairyoga.eab:production:122",
+      "entity_type": "GOOGLE_PLAY_RELEASE",
+      "name": "122 (1.2.1)",
+      "platform": "ANDROID",
+      "rollout": "-",
+      "state": "completed",
+      "track": "production",
+      "version": "122"
     },
     "IAE:6759826894": {
       "app_id": "6758745743",
@@ -959,5 +1005,5 @@
       "state": "APPROVED"
     }
   },
-  "updated_at": "2026-09-16T14:16:32.598655+00:00"
+  "updated_at": "2026-09-16T16:17:50.413438+00:00"
 }
