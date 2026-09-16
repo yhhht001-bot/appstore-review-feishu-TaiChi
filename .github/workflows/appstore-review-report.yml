@@ -4,6 +4,26 @@ on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+    inputs:
+      send_current_snapshot:
+        description: "立即发送当前全部 App 审核状态"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+      send_google_play_snapshot:
+        description: "立即发送当前 Google Play 审核状态"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: write
 
 permissions:
   contents: write
@@ -42,16 +62,26 @@ jobs:
           ${{ secrets.ASC_PRIVATE_KEY }}
           EOF
 
+      - name: Write Google Play service account key
+        run: |
+          cat > google_play_service_account.json <<'EOF'
+          ${{ secrets.GPLAY_SERVICE_ACCOUNT_JSON }}
+          EOF
+
       - name: Run review report
         env:
           ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
           ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
           ASC_PRIVATE_KEY_PATH: ./asc_private_key.p8
+          GPLAY_SERVICE_ACCOUNT_JSON_PATH: ./google_play_service_account.json
+          GPLAY_PACKAGE_NAMES: ${{ secrets.GPLAY_PACKAGE_NAMES }}
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
           FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
           FEISHU_KEYWORD: ${{ secrets.FEISHU_KEYWORD }}
           ASC_APP_IDS: ${{ secrets.ASC_APP_IDS }}
           STATE_FILE_PATH: ./.state/appstore_review_state.json
+          SEND_CURRENT_SNAPSHOT: ${{ github.event.inputs.send_current_snapshot || 'false' }}
+          SEND_GOOGLE_PLAY_SNAPSHOT: ${{ github.event.inputs.send_google_play_snapshot || 'false' }}
         run: python appstore_review_report.py
 
       - name: Persist state
