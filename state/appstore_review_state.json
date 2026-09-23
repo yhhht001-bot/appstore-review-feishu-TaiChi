@@ -178,7 +178,7 @@
       "entity_type": "APP_VERSION",
       "name": "2.3.0",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
     "APP_VERSION:74c8c5c2-1156-439b-962c-df4053b414cb": {
       "app_id": "6758745743",
@@ -455,7 +455,7 @@
       "name": "ChairTaiChi_紫_0729",
       "parent_id": "445c443a-62cc-4fb7-818a-d949b5191f52",
       "platform": "IOS",
-      "state": "APPROVED",
+      "state": "REPLACED_WITH_NEW_VERSION",
       "version": "1"
     },
     "CPP:26f4ab96-c072-4719-b4f0-c868edca2f95": {
@@ -515,7 +515,7 @@
       "name": "ChairTaiChi_紫_0729",
       "parent_id": "445c443a-62cc-4fb7-818a-d949b5191f52",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW",
+      "state": "APPROVED",
       "version": "2"
     },
     "CPP:3ff68b95-2142-4eec-a24d-561fff53660f": {
@@ -990,7 +990,7 @@
       "entity_type": "IAE",
       "name": "challenge566",
       "platform": "IOS",
-      "state": "PAST"
+      "state": "ARCHIVED"
     },
     "IAE:6799009006": {
       "app_id": "6758745743",
@@ -1073,5 +1073,5 @@
       "state": "APPROVED"
     }
   },
-  "updated_at": "2026-09-23T12:53:11.347226+00:00"
+  "updated_at": "2026-09-23T17:40:57.417559+00:00"
 }
