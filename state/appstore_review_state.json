@@ -40,6 +40,16 @@
       "platform": "IOS",
       "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
+    "APP_VERSION:27aee974-0165-4edc-85b6-0ec51dc6cd1c": {
+      "app_id": "6767155434",
+      "app_name": "Chair Yoga Tai Chi for Seniors",
+      "bundle_id": "com.seniorchairyoga.yuanqifitness",
+      "entity_id": "27aee974-0165-4edc-85b6-0ec51dc6cd1c",
+      "entity_type": "APP_VERSION",
+      "name": "1.5.1",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION"
+    },
     "APP_VERSION:2c049291-4102-4271-9a3c-37a140f50277": {
       "app_id": "6767155434",
       "app_name": "Chair Yoga Tai Chi for Seniors",
@@ -166,9 +176,9 @@
       "bundle_id": "com.taichisenior.yuanqifitness",
       "entity_id": "6bd14b23-d7f1-42c9-b749-3f45a8b2a3a7",
       "entity_type": "APP_VERSION",
-      "name": "2.2.3",
+      "name": "2.3.0",
       "platform": "IOS",
-      "state": "PREPARE_FOR_SUBMISSION"
+      "state": "WAITING_FOR_REVIEW"
     },
     "APP_VERSION:74c8c5c2-1156-439b-962c-df4053b414cb": {
       "app_id": "6758745743",
@@ -268,7 +278,7 @@
       "entity_type": "APP_VERSION",
       "name": "1.0.0",
       "platform": "IOS",
-      "state": "PREPARE_FOR_SUBMISSION"
+      "state": "WAITING_FOR_REVIEW"
     },
     "APP_VERSION:b8b96d56-1260-408e-8f52-54e8ed18b84f": {
       "app_id": "6758745743",
@@ -424,6 +434,18 @@
       "state": "APPROVED",
       "version": "1"
     },
+    "CPP:206b1c58-d909-4e3e-9814-1f4aac9fb31b": {
+      "app_id": "6758745743",
+      "app_name": "Tai Chi for Seniors Beginners",
+      "bundle_id": "com.taichisenior.yuanqifitness",
+      "entity_id": "206b1c58-d909-4e3e-9814-1f4aac9fb31b",
+      "entity_type": "CPP",
+      "name": "taichi_0814",
+      "parent_id": "ba6bddb9-655b-4e27-9a61-391569bd5a3e",
+      "platform": "IOS",
+      "state": "READY_FOR_REVIEW",
+      "version": "2"
+    },
     "CPP:20f1ba90-5ce2-440a-be72-d84db90e981e": {
       "app_id": "6758745743",
       "app_name": "Tai Chi for Seniors Beginners",
@@ -484,6 +506,18 @@
       "state": "APPROVED",
       "version": "2"
     },
+    "CPP:3fba52c3-0559-4668-bfe9-ae465a9d5982": {
+      "app_id": "6758745743",
+      "app_name": "Tai Chi for Seniors Beginners",
+      "bundle_id": "com.taichisenior.yuanqifitness",
+      "entity_id": "3fba52c3-0559-4668-bfe9-ae465a9d5982",
+      "entity_type": "CPP",
+      "name": "ChairTaiChi_紫_0729",
+      "parent_id": "445c443a-62cc-4fb7-818a-d949b5191f52",
+      "platform": "IOS",
+      "state": "WAITING_FOR_REVIEW",
+      "version": "2"
+    },
     "CPP:3ff68b95-2142-4eec-a24d-561fff53660f": {
       "app_id": "6758745743",
       "app_name": "Tai Chi for Seniors Beginners",
@@ -532,6 +566,18 @@
       "state": "APPROVED",
       "version": "1"
     },
+    "CPP:7c166ff6-916c-46ae-93c3-8e3a51466957": {
+      "app_id": "6758745743",
+      "app_name": "Tai Chi for Seniors Beginners",
+      "bundle_id": "com.taichisenior.yuanqifitness",
+      "entity_id": "7c166ff6-916c-46ae-93c3-8e3a51466957",
+      "entity_type": "CPP",
+      "name": "taichiwalking_0901",
+      "parent_id": "8747db27-b244-45e7-ad4b-668c3854e84e",
+      "platform": "IOS",
+      "state": "READY_FOR_REVIEW",
+      "version": "2"
+    },
     "CPP:81faf503-70c9-427e-976a-0111829efef5": {
       "app_id": "6758745743",
       "app_name": "Tai Chi for Seniors Beginners",
@@ -578,6 +624,18 @@
       "parent_id": "eae8edc7-2f68-4a5a-89eb-08d191d63d80",
       "platform": "IOS",
       "state": "APPROVED",
+      "version": "1"
+    },
+    "CPP:b2deccae-d267-4970-9a62-9123fef29f0f": {
+      "app_id": "6758745743",
+      "app_name": "Tai Chi for Seniors Beginners",
+      "bundle_id": "com.taichisenior.yuanqifitness",
+      "entity_id": "b2deccae-d267-4970-9a62-9123fef29f0f",
+      "entity_type": "CPP",
+      "name": "男女taichi_0923",
+      "parent_id": "336fddb4-2181-4dbb-a2c6-f4ecbeb092f3",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION",
       "version": "1"
     },
     "CPP:c000153c-6333-4adc-be76-53b96f0673b7": {
@@ -1015,5 +1073,5 @@
       "state": "APPROVED"
     }
   },
-  "updated_at": "2026-09-22T20:50:49.495432+00:00"
+  "updated_at": "2026-09-23T12:53:11.347226+00:00"
 }
