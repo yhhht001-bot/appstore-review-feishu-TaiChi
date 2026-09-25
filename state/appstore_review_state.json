@@ -441,7 +441,7 @@
       "name": "taichi_0814",
       "parent_id": "ba6bddb9-655b-4e27-9a61-391569bd5a3e",
       "platform": "IOS",
-      "state": "APPROVED",
+      "state": "REPLACED_WITH_NEW_VERSION",
       "version": "1"
     },
     "CPP:206b1c58-d909-4e3e-9814-1f4aac9fb31b": {
@@ -453,7 +453,7 @@
       "name": "taichi_0814",
       "parent_id": "ba6bddb9-655b-4e27-9a61-391569bd5a3e",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW",
+      "state": "APPROVED",
       "version": "2"
     },
     "CPP:20f1ba90-5ce2-440a-be72-d84db90e981e": {
@@ -573,7 +573,7 @@
       "name": "taichiwalking_0901",
       "parent_id": "8747db27-b244-45e7-ad4b-668c3854e84e",
       "platform": "IOS",
-      "state": "APPROVED",
+      "state": "REPLACED_WITH_NEW_VERSION",
       "version": "1"
     },
     "CPP:7c166ff6-916c-46ae-93c3-8e3a51466957": {
@@ -585,7 +585,7 @@
       "name": "taichiwalking_0901",
       "parent_id": "8747db27-b244-45e7-ad4b-668c3854e84e",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW",
+      "state": "APPROVED",
       "version": "2"
     },
     "CPP:81faf503-70c9-427e-976a-0111829efef5": {
@@ -1083,5 +1083,5 @@
       "state": "APPROVED"
     }
   },
-  "updated_at": "2026-09-25T05:11:16.023562+00:00"
+  "updated_at": "2026-09-25T10:23:08.329731+00:00"
 }
