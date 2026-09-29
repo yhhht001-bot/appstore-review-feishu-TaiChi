@@ -278,7 +278,7 @@
       "entity_type": "APP_VERSION",
       "name": "1.0.0",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
     "APP_VERSION:b8b96d56-1260-408e-8f52-54e8ed18b84f": {
       "app_id": "6758745743",
@@ -696,31 +696,18 @@
       "state": "APPROVED",
       "version": "1"
     },
-    "GOOGLE_PLAY_RELEASE:com.seniorchairyoga.eab:production:-": {
+    "GOOGLE_PLAY_RELEASE:com.seniorchairyoga.eab:production:150": {
       "app_id": "com.seniorchairyoga.eab",
       "app_name": "Chair Yoga",
       "bundle_id": "com.seniorchairyoga.eab",
-      "entity_id": "com.seniorchairyoga.eab:production:-",
+      "entity_id": "com.seniorchairyoga.eab:production:150",
       "entity_type": "GOOGLE_PLAY_RELEASE",
-      "name": "-",
-      "platform": "ANDROID",
-      "rollout": "-",
-      "state": "draft",
-      "track": "production",
-      "version": "-"
-    },
-    "GOOGLE_PLAY_RELEASE:com.seniorchairyoga.eab:production:122": {
-      "app_id": "com.seniorchairyoga.eab",
-      "app_name": "Chair Yoga",
-      "bundle_id": "com.seniorchairyoga.eab",
-      "entity_id": "com.seniorchairyoga.eab:production:122",
-      "entity_type": "GOOGLE_PLAY_RELEASE",
-      "name": "122 (1.2.1)",
+      "name": "150 (1.5.0)",
       "platform": "ANDROID",
       "rollout": "-",
       "state": "completed",
       "track": "production",
-      "version": "122"
+      "version": "150"
     },
     "IAE:6759826894": {
       "app_id": "6758745743",
@@ -1083,5 +1070,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-09-26T15:42:10.634783+00:00"
+  "updated_at": "2026-09-29T14:12:48.485171+00:00"
 }
