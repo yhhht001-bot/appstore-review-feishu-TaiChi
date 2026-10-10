@@ -487,7 +487,7 @@
       "name": "downdog_1009",
       "parent_id": "a8dc2f69-7503-4243-abe2-6c8abb31d176",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW",
+      "state": "APPROVED",
       "version": "1"
     },
     "CPP:26f4ab96-c072-4719-b4f0-c868edca2f95": {
@@ -607,7 +607,7 @@
       "name": "chair yoga_1009",
       "parent_id": "11e0e7a7-eb36-490a-b620-104bf522b33b",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW",
+      "state": "APPROVED",
       "version": "1"
     },
     "CPP:7c166ff6-916c-46ae-93c3-8e3a51466957": {
@@ -679,7 +679,7 @@
       "name": "男女taichi_0923",
       "parent_id": "336fddb4-2181-4dbb-a2c6-f4ecbeb092f3",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW",
+      "state": "APPROVED",
       "version": "1"
     },
     "CPP:c000153c-6333-4adc-be76-53b96f0673b7": {
@@ -1104,5 +1104,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-10-09T15:28:42.853430+00:00"
+  "updated_at": "2026-10-10T00:11:55.561221+00:00"
 }
