@@ -1091,7 +1091,7 @@
       "entity_type": "IAE",
       "name": "Betterme Chair Yoga",
       "platform": "IOS",
-      "state": "PUBLISHED"
+      "state": "PAST"
     },
     "IAE:6803837531": {
       "app_id": "6767155434",
@@ -1111,7 +1111,7 @@
       "entity_type": "IAE",
       "name": "Tai Chi Walking Class",
       "platform": "IOS",
-      "state": "PUBLISHED"
+      "state": "PAST"
     },
     "IAE:6803842327": {
       "app_id": "6758745743",
@@ -1134,5 +1134,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-10-19T14:50:01.716128+00:00"
+  "updated_at": "2026-10-20T18:34:55.353033+00:00"
 }
