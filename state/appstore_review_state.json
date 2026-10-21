@@ -398,7 +398,7 @@
       "entity_type": "APP_VERSION",
       "name": "1.6.0",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "PENDING_DEVELOPER_RELEASE"
     },
     "CPP:046b9059-66e4-4864-9b02-97f01ca84365": {
       "app_id": "6758745743",
@@ -1134,5 +1134,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-10-21T11:06:27.322500+00:00"
+  "updated_at": "2026-10-21T23:30:01.672344+00:00"
 }
