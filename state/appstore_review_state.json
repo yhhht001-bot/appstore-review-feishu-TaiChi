@@ -8,7 +8,7 @@
       "entity_type": "APP_VERSION",
       "name": "1.6.1",
       "platform": "IOS",
-      "state": "PREPARE_FOR_SUBMISSION"
+      "state": "WAITING_FOR_REVIEW"
     },
     "APP_VERSION:0ddcdd7b-4d5f-4ee8-bd57-81ab5e219dee": {
       "app_id": "6758745743",
@@ -611,7 +611,7 @@
       "name": "chair yoga_1023",
       "parent_id": "e3e54160-b971-494d-b977-1160bd5fbe49",
       "platform": "IOS",
-      "state": "PREPARE_FOR_SUBMISSION",
+      "state": "APPROVED",
       "version": "1"
     },
     "CPP:58198dd5-d744-4d8f-8e18-7d34aebd7f6a": {
@@ -1156,5 +1156,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-10-23T10:21:43.842084+00:00"
+  "updated_at": "2026-10-23T15:20:04.946322+00:00"
 }
