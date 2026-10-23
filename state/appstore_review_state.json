@@ -1,5 +1,15 @@
 {
   "items": {
+    "APP_VERSION:0a463c8e-bfdc-4d4c-b5d8-a7f9c481c18c": {
+      "app_id": "6767155434",
+      "app_name": "Chair Yoga Tai Chi for Seniors",
+      "bundle_id": "com.seniorchairyoga.yuanqifitness",
+      "entity_id": "0a463c8e-bfdc-4d4c-b5d8-a7f9c481c18c",
+      "entity_type": "APP_VERSION",
+      "name": "1.6.1",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION"
+    },
     "APP_VERSION:0ddcdd7b-4d5f-4ee8-bd57-81ab5e219dee": {
       "app_id": "6758745743",
       "app_name": "Tai Chi for Seniors Beginners",
@@ -346,9 +356,9 @@
       "bundle_id": "com.taichisenior.yuanqifitness",
       "entity_id": "c5b507d1-5d8a-4b1f-98b6-f7c56b7f27c8",
       "entity_type": "APP_VERSION",
-      "name": "2.3.1",
+      "name": "2.4.0",
       "platform": "IOS",
-      "state": "PREPARE_FOR_SUBMISSION"
+      "state": "WAITING_FOR_REVIEW"
     },
     "APP_VERSION:c91c9c8e-8e4a-45e4-81b5-563b43466378": {
       "app_id": "6758745743",
@@ -398,7 +408,7 @@
       "entity_type": "APP_VERSION",
       "name": "1.6.0",
       "platform": "IOS",
-      "state": "PENDING_DEVELOPER_RELEASE"
+      "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
     "CPP:046b9059-66e4-4864-9b02-97f01ca84365": {
       "app_id": "6758745743",
@@ -590,6 +600,18 @@
       "parent_id": "dea5f705-be2c-4ff0-bc65-8608cabc19e7",
       "platform": "IOS",
       "state": "APPROVED",
+      "version": "1"
+    },
+    "CPP:57f1d4b2-89d0-472f-8a7b-203f5aead717": {
+      "app_id": "6758745743",
+      "app_name": "Tai Chi for Seniors Beginners",
+      "bundle_id": "com.taichisenior.yuanqifitness",
+      "entity_id": "57f1d4b2-89d0-472f-8a7b-203f5aead717",
+      "entity_type": "CPP",
+      "name": "chair yoga_1023",
+      "parent_id": "e3e54160-b971-494d-b977-1160bd5fbe49",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION",
       "version": "1"
     },
     "CPP:58198dd5-d744-4d8f-8e18-7d34aebd7f6a": {
@@ -1134,5 +1156,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-10-21T23:30:01.672344+00:00"
+  "updated_at": "2026-10-23T10:21:43.842084+00:00"
 }
