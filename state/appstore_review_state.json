@@ -802,18 +802,18 @@
       "state": "APPROVED",
       "version": "1"
     },
-    "GOOGLE_PLAY_RELEASE:com.seniorchairyoga.eab:production:161": {
+    "GOOGLE_PLAY_RELEASE:com.seniorchairyoga.eab:production:162": {
       "app_id": "com.seniorchairyoga.eab",
       "app_name": "Chair Yoga",
       "bundle_id": "com.seniorchairyoga.eab",
-      "entity_id": "com.seniorchairyoga.eab:production:161",
+      "entity_id": "com.seniorchairyoga.eab:production:162",
       "entity_type": "GOOGLE_PLAY_RELEASE",
-      "name": "161 (1.6.1)",
+      "name": "162 (1.6.1)",
       "platform": "ANDROID",
       "rollout": "-",
       "state": "completed",
       "track": "production",
-      "version": "161"
+      "version": "162"
     },
     "IAE:6759826894": {
       "app_id": "6758745743",
@@ -1163,7 +1163,7 @@
       "entity_type": "IAE",
       "name": "Simple Life Challenge",
       "platform": "IOS",
-      "state": "PUBLISHED"
+      "state": "PAST"
     },
     "IAE:6803842399": {
       "app_id": "6758745743",
@@ -1216,5 +1216,5 @@
       "state": "WAITING_FOR_REVIEW"
     }
   },
-  "updated_at": "2026-10-27T09:33:46.079352+00:00"
+  "updated_at": "2026-10-27T15:41:38.198395+00:00"
 }
