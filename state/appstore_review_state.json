@@ -802,18 +802,18 @@
       "state": "APPROVED",
       "version": "1"
     },
-    "GOOGLE_PLAY_RELEASE:com.seniorchairyoga.eab:production:150": {
+    "GOOGLE_PLAY_RELEASE:com.seniorchairyoga.eab:production:161": {
       "app_id": "com.seniorchairyoga.eab",
       "app_name": "Chair Yoga",
       "bundle_id": "com.seniorchairyoga.eab",
-      "entity_id": "com.seniorchairyoga.eab:production:150",
+      "entity_id": "com.seniorchairyoga.eab:production:161",
       "entity_type": "GOOGLE_PLAY_RELEASE",
-      "name": "150 (1.5.0)",
+      "name": "161 (1.6.1)",
       "platform": "ANDROID",
       "rollout": "-",
       "state": "completed",
       "track": "production",
-      "version": "150"
+      "version": "161"
     },
     "IAE:6759826894": {
       "app_id": "6758745743",
@@ -1183,7 +1183,7 @@
       "entity_type": "IAE",
       "name": "Halloween1",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "PUBLISHED"
     },
     "IAE:6827072311": {
       "app_id": "6758745743",
@@ -1193,7 +1193,7 @@
       "entity_type": "IAE",
       "name": "Halloween2",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "PUBLISHED"
     },
     "IAE:6827073987": {
       "app_id": "6767155434",
@@ -1203,7 +1203,7 @@
       "entity_type": "IAE",
       "name": "Halloween1",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "PUBLISHED"
     },
     "IAE:6827076270": {
       "app_id": "6767155434",
@@ -1213,8 +1213,8 @@
       "entity_type": "IAE",
       "name": "Halloween2",
       "platform": "IOS",
-      "state": "READY_FOR_REVIEW"
+      "state": "WAITING_FOR_REVIEW"
     }
   },
-  "updated_at": "2026-10-26T13:50:43.724237+00:00"
+  "updated_at": "2026-10-27T09:33:46.079352+00:00"
 }
