@@ -655,7 +655,7 @@
       "name": "TC_Plans_紫色_1028",
       "parent_id": "9b5a74c5-7326-4817-a245-b83fecef7d7e",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW",
+      "state": "APPROVED",
       "version": "1"
     },
     "CPP:6382e4a6-71c0-4352-a6ac-457185fd3af0": {
@@ -1228,5 +1228,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-10-28T21:29:49.718507+00:00"
+  "updated_at": "2026-10-29T01:10:30.184016+00:00"
 }
