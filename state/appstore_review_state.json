@@ -230,6 +230,26 @@
       "platform": "IOS",
       "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
+    "APP_VERSION:825a1402-5ef0-4199-9f19-5e7540070efa": {
+      "app_id": "6758745743",
+      "app_name": "Tai Chi for Seniors Beginners",
+      "bundle_id": "com.taichisenior.yuanqifitness",
+      "entity_id": "825a1402-5ef0-4199-9f19-5e7540070efa",
+      "entity_type": "APP_VERSION",
+      "name": "2.4.2",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION"
+    },
+    "APP_VERSION:85faccd4-2567-48a5-836f-1107746c8aec": {
+      "app_id": "6767155434",
+      "app_name": "Home Workout Fitness ChairYoga",
+      "bundle_id": "com.seniorchairyoga.yuanqifitness",
+      "entity_id": "85faccd4-2567-48a5-836f-1107746c8aec",
+      "entity_type": "APP_VERSION",
+      "name": "1.6.3",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION"
+    },
     "APP_VERSION:862a46c1-89ff-48ec-adb8-5077c30d6413": {
       "app_id": "6808559218",
       "app_name": "Walking for Seniors: Flourish",
@@ -298,7 +318,7 @@
       "entity_type": "APP_VERSION",
       "name": "1.6.2",
       "platform": "IOS",
-      "state": "PENDING_DEVELOPER_RELEASE"
+      "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
     "APP_VERSION:a9095c31-e4ef-4699-93c4-ab2dc9ee57de": {
       "app_id": "6767155434",
@@ -814,18 +834,18 @@
       "state": "APPROVED",
       "version": "1"
     },
-    "GOOGLE_PLAY_RELEASE:com.seniorchairyoga.eab:production:162": {
+    "GOOGLE_PLAY_RELEASE:com.seniorchairyoga.eab:production:163": {
       "app_id": "com.seniorchairyoga.eab",
       "app_name": "Chair Yoga",
       "bundle_id": "com.seniorchairyoga.eab",
-      "entity_id": "com.seniorchairyoga.eab:production:162",
+      "entity_id": "com.seniorchairyoga.eab:production:163",
       "entity_type": "GOOGLE_PLAY_RELEASE",
-      "name": "162 (1.6.1)",
+      "name": "163 (1.6.2)",
       "platform": "ANDROID",
       "rollout": "-",
       "state": "completed",
       "track": "production",
-      "version": "162"
+      "version": "163"
     },
     "IAE:6759826894": {
       "app_id": "6758745743",
@@ -1228,5 +1248,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-10-29T01:10:30.184016+00:00"
+  "updated_at": "2026-10-29T20:02:22.145537+00:00"
 }
