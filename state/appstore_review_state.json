@@ -430,6 +430,16 @@
       "platform": "IOS",
       "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
+    "APP_VERSION:dd6d256e-3819-41f6-95ac-b13564c6bac2": {
+      "app_id": "6808559218",
+      "app_name": "Walking for Seniors: Flourish",
+      "bundle_id": "com.walkingforseniors.yuanqifitness",
+      "entity_id": "dd6d256e-3819-41f6-95ac-b13564c6bac2",
+      "entity_type": "APP_VERSION",
+      "name": "1.0.1",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION"
+    },
     "APP_VERSION:e1e19097-6538-4147-a45e-05174a57163f": {
       "app_id": "6767155434",
       "app_name": "Home Workout Fitness ChairYoga",
@@ -1175,7 +1185,7 @@
       "entity_type": "IAE",
       "name": "Healthy Body Workshop",
       "platform": "IOS",
-      "state": "PUBLISHED"
+      "state": "PAST"
     },
     "IAE:6803841996": {
       "app_id": "6758745743",
@@ -1248,5 +1258,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-10-30T13:17:29.511501+00:00"
+  "updated_at": "2026-11-03T18:59:31.139211+00:00"
 }
