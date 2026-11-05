@@ -230,6 +230,16 @@
       "platform": "IOS",
       "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
+    "APP_VERSION:7991498a-f7cb-425d-bfe7-f6f248fbee87": {
+      "app_id": "6812701733",
+      "app_name": "Health, Recovery Tracker: Ezly",
+      "bundle_id": "com.healthdata.ezly.yuanqifitness",
+      "entity_id": "7991498a-f7cb-425d-bfe7-f6f248fbee87",
+      "entity_type": "APP_VERSION",
+      "name": "1.1.2",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION"
+    },
     "APP_VERSION:825a1402-5ef0-4199-9f19-5e7540070efa": {
       "app_id": "6758745743",
       "app_name": "Tai Chi for Seniors Beginners",
@@ -1258,5 +1268,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-11-03T18:59:31.139211+00:00"
+  "updated_at": "2026-11-05T07:47:54.230168+00:00"
 }
