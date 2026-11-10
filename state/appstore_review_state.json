@@ -1245,7 +1245,7 @@
       "entity_type": "IAE",
       "name": "Relax and Breathe Now",
       "platform": "IOS",
-      "state": "PUBLISHED"
+      "state": "PAST"
     },
     "IAE:6827071467": {
       "app_id": "6758745743",
@@ -1288,5 +1288,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-11-10T09:25:15.054622+00:00"
+  "updated_at": "2026-11-10T17:12:18.688937+00:00"
 }
