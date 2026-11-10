@@ -40,6 +40,16 @@
       "platform": "IOS",
       "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
+    "APP_VERSION:13a9bbde-52ac-4df3-b6cf-4c7c2478cf10": {
+      "app_id": "6832877810",
+      "app_name": "Gym Beginner Workouts: Viamot",
+      "bundle_id": "com.gymplanner.viamot.yuanqifitness",
+      "entity_id": "13a9bbde-52ac-4df3-b6cf-4c7c2478cf10",
+      "entity_type": "APP_VERSION",
+      "name": "1.0.0",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION"
+    },
     "APP_VERSION:22539efe-454a-4a41-8506-51b2e3aa3dfe": {
       "app_id": "6758745743",
       "app_name": "Tai Chi for Seniors Beginners",
@@ -1278,5 +1288,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-11-06T10:20:48.804390+00:00"
+  "updated_at": "2026-11-10T09:25:15.054622+00:00"
 }
