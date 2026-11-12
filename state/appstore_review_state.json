@@ -502,6 +502,18 @@
       "state": "REPLACED_WITH_NEW_VERSION",
       "version": "1"
     },
+    "CPP:07c66532-ac76-408c-90b0-643ba4c6f13e": {
+      "app_id": "6767155434",
+      "app_name": "Home Workout Fitness ChairYoga",
+      "bundle_id": "com.seniorchairyoga.yuanqifitness",
+      "entity_id": "07c66532-ac76-408c-90b0-643ba4c6f13e",
+      "entity_type": "CPP",
+      "name": "fitness chair_1112",
+      "parent_id": "d0cbf743-6802-4a52-a7e6-437caa3ded51",
+      "platform": "IOS",
+      "state": "WAITING_FOR_REVIEW",
+      "version": "1"
+    },
     "CPP:087c8dd5-77c1-4b10-86f2-1a9ee582e506": {
       "app_id": "6758745743",
       "app_name": "Tai Chi for Seniors Beginners",
@@ -1195,7 +1207,7 @@
       "entity_type": "IAE",
       "name": "Exercise for Seniors",
       "platform": "IOS",
-      "state": "PAST"
+      "state": "ARCHIVED"
     },
     "IAE:6803836399": {
       "app_id": "6767155434",
@@ -1288,5 +1300,5 @@
       "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-11-10T17:12:18.688937+00:00"
+  "updated_at": "2026-11-12T15:51:42.557146+00:00"
 }
