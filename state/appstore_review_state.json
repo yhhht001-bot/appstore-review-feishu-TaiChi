@@ -1305,10 +1305,10 @@
       "bundle_id": "com.taichisenior.yuanqifitness",
       "entity_id": "6834304652",
       "entity_type": "IAE",
-      "name": "11",
+      "name": "challenge1113",
       "platform": "IOS",
-      "state": "DRAFT"
+      "state": "WAITING_FOR_REVIEW"
     }
   },
-  "updated_at": "2026-11-13T10:29:00.763540+00:00"
+  "updated_at": "2026-11-13T17:58:57.467482+00:00"
 }
