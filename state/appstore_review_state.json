@@ -511,7 +511,7 @@
       "name": "fitness chair_1112",
       "parent_id": "d0cbf743-6802-4a52-a7e6-437caa3ded51",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW",
+      "state": "APPROVED",
       "version": "1"
     },
     "CPP:087c8dd5-77c1-4b10-86f2-1a9ee582e506": {
@@ -1307,8 +1307,8 @@
       "entity_type": "IAE",
       "name": "challenge1113",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "APPROVED"
     }
   },
-  "updated_at": "2026-11-13T17:58:57.467482+00:00"
+  "updated_at": "2026-11-14T21:04:02.028276+00:00"
 }
