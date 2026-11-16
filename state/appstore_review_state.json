@@ -248,7 +248,7 @@
       "entity_type": "APP_VERSION",
       "name": "1.1.2",
       "platform": "IOS",
-      "state": "PREPARE_FOR_SUBMISSION"
+      "state": "WAITING_FOR_REVIEW"
     },
     "APP_VERSION:825a1402-5ef0-4199-9f19-5e7540070efa": {
       "app_id": "6758745743",
@@ -1307,8 +1307,8 @@
       "entity_type": "IAE",
       "name": "challenge1113",
       "platform": "IOS",
-      "state": "APPROVED"
+      "state": "PUBLISHED"
     }
   },
-  "updated_at": "2026-11-14T21:04:02.028276+00:00"
+  "updated_at": "2026-11-16T17:53:31.774192+00:00"
 }
