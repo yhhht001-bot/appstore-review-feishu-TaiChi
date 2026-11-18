@@ -2,7 +2,7 @@
   "items": {
     "APP_VERSION:0a463c8e-bfdc-4d4c-b5d8-a7f9c481c18c": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "0a463c8e-bfdc-4d4c-b5d8-a7f9c481c18c",
       "entity_type": "APP_VERSION",
@@ -62,7 +62,7 @@
     },
     "APP_VERSION:27aee974-0165-4edc-85b6-0ec51dc6cd1c": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "27aee974-0165-4edc-85b6-0ec51dc6cd1c",
       "entity_type": "APP_VERSION",
@@ -72,7 +72,7 @@
     },
     "APP_VERSION:2c049291-4102-4271-9a3c-37a140f50277": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "2c049291-4102-4271-9a3c-37a140f50277",
       "entity_type": "APP_VERSION",
@@ -82,7 +82,7 @@
     },
     "APP_VERSION:39b4b83d-ce10-4555-98fe-d99520e2449f": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "39b4b83d-ce10-4555-98fe-d99520e2449f",
       "entity_type": "APP_VERSION",
@@ -112,7 +112,7 @@
     },
     "APP_VERSION:3f339861-301a-4547-8297-48d7946e00db": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "3f339861-301a-4547-8297-48d7946e00db",
       "entity_type": "APP_VERSION",
@@ -162,7 +162,7 @@
     },
     "APP_VERSION:58e23688-d790-4b2b-951b-b670797738b7": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "58e23688-d790-4b2b-951b-b670797738b7",
       "entity_type": "APP_VERSION",
@@ -202,7 +202,7 @@
     },
     "APP_VERSION:6963543b-6af3-4fc2-9ec2-e2d49373873d": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6963543b-6af3-4fc2-9ec2-e2d49373873d",
       "entity_type": "APP_VERSION",
@@ -220,6 +220,16 @@
       "platform": "IOS",
       "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
+    "APP_VERSION:6f72f0e1-dcca-4b40-b984-d775c1b48465": {
+      "app_id": "6812701733",
+      "app_name": "Health, Recovery Tracker: Ezly",
+      "bundle_id": "com.healthdata.ezly.yuanqifitness",
+      "entity_id": "6f72f0e1-dcca-4b40-b984-d775c1b48465",
+      "entity_type": "APP_VERSION",
+      "name": "1.1.3",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION"
+    },
     "APP_VERSION:74c8c5c2-1156-439b-962c-df4053b414cb": {
       "app_id": "6758745743",
       "app_name": "Tai Chi for Seniors Beginners",
@@ -232,7 +242,7 @@
     },
     "APP_VERSION:775f792d-a958-4d13-991c-708fbde3ddaa": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "775f792d-a958-4d13-991c-708fbde3ddaa",
       "entity_type": "APP_VERSION",
@@ -262,7 +272,7 @@
     },
     "APP_VERSION:85faccd4-2567-48a5-836f-1107746c8aec": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "85faccd4-2567-48a5-836f-1107746c8aec",
       "entity_type": "APP_VERSION",
@@ -282,7 +292,7 @@
     },
     "APP_VERSION:86f13910-8a30-4a5e-8b37-20a3386e7a8e": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "86f13910-8a30-4a5e-8b37-20a3386e7a8e",
       "entity_type": "APP_VERSION",
@@ -302,7 +312,7 @@
     },
     "APP_VERSION:8fc517b5-ecec-4df0-84be-8ec7075d0c3c": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "8fc517b5-ecec-4df0-84be-8ec7075d0c3c",
       "entity_type": "APP_VERSION",
@@ -332,7 +342,7 @@
     },
     "APP_VERSION:a6b455cf-8e8f-4fbb-91ff-b33336f2c5a8": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "a6b455cf-8e8f-4fbb-91ff-b33336f2c5a8",
       "entity_type": "APP_VERSION",
@@ -342,7 +352,7 @@
     },
     "APP_VERSION:a9095c31-e4ef-4699-93c4-ab2dc9ee57de": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "a9095c31-e4ef-4699-93c4-ab2dc9ee57de",
       "entity_type": "APP_VERSION",
@@ -382,7 +392,7 @@
     },
     "APP_VERSION:bae857f8-ef18-4688-960b-2fcf4aea1117": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "bae857f8-ef18-4688-960b-2fcf4aea1117",
       "entity_type": "APP_VERSION",
@@ -452,7 +462,7 @@
     },
     "APP_VERSION:d5132667-79f1-4eeb-b3c7-26fb0dde7059": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "d5132667-79f1-4eeb-b3c7-26fb0dde7059",
       "entity_type": "APP_VERSION",
@@ -472,7 +482,7 @@
     },
     "APP_VERSION:e1e19097-6538-4147-a45e-05174a57163f": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "e1e19097-6538-4147-a45e-05174a57163f",
       "entity_type": "APP_VERSION",
@@ -482,7 +492,7 @@
     },
     "APP_VERSION:fdd13a5b-5aa5-452a-ad21-43124aa31e71": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "fdd13a5b-5aa5-452a-ad21-43124aa31e71",
       "entity_type": "APP_VERSION",
@@ -504,7 +514,7 @@
     },
     "CPP:07c66532-ac76-408c-90b0-643ba4c6f13e": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "07c66532-ac76-408c-90b0-643ba4c6f13e",
       "entity_type": "CPP",
@@ -564,7 +574,7 @@
     },
     "CPP:1df52e5f-6817-4bb0-884c-d371b6cc0a0f": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "1df52e5f-6817-4bb0-884c-d371b6cc0a0f",
       "entity_type": "CPP",
@@ -624,7 +634,7 @@
     },
     "CPP:26f4ab96-c072-4719-b4f0-c868edca2f95": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "26f4ab96-c072-4719-b4f0-c868edca2f95",
       "entity_type": "CPP",
@@ -732,7 +742,7 @@
     },
     "CPP:6382e4a6-71c0-4352-a6ac-457185fd3af0": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6382e4a6-71c0-4352-a6ac-457185fd3af0",
       "entity_type": "CPP",
@@ -756,7 +766,7 @@
     },
     "CPP:6eb473d7-a09f-48b3-98e3-4f5a829f2bc9": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6eb473d7-a09f-48b3-98e3-4f5a829f2bc9",
       "entity_type": "CPP",
@@ -804,7 +814,7 @@
     },
     "CPP:8bdb5b21-bd1c-4fd0-9526-8b8b496192ba": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "8bdb5b21-bd1c-4fd0-9526-8b8b496192ba",
       "entity_type": "CPP",
@@ -840,7 +850,7 @@
     },
     "CPP:c000153c-6333-4adc-be76-53b96f0673b7": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "c000153c-6333-4adc-be76-53b96f0673b7",
       "entity_type": "CPP",
@@ -991,7 +1001,7 @@
     },
     "IAE:6767817227": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6767817227",
       "entity_type": "IAE",
@@ -1021,7 +1031,7 @@
     },
     "IAE:6776585615": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6776585615",
       "entity_type": "IAE",
@@ -1051,7 +1061,7 @@
     },
     "IAE:6781142618": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6781142618",
       "entity_type": "IAE",
@@ -1071,7 +1081,7 @@
     },
     "IAE:6781604832": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6781604832",
       "entity_type": "IAE",
@@ -1081,7 +1091,7 @@
     },
     "IAE:6786600669": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6786600669",
       "entity_type": "IAE",
@@ -1091,7 +1101,7 @@
     },
     "IAE:6786601455": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6786601455",
       "entity_type": "IAE",
@@ -1101,7 +1111,7 @@
     },
     "IAE:6786601678": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6786601678",
       "entity_type": "IAE",
@@ -1111,7 +1121,7 @@
     },
     "IAE:6786601872": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6786601872",
       "entity_type": "IAE",
@@ -1121,7 +1131,7 @@
     },
     "IAE:6786602055": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6786602055",
       "entity_type": "IAE",
@@ -1191,7 +1201,7 @@
     },
     "IAE:6803833354": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6803833354",
       "entity_type": "IAE",
@@ -1201,7 +1211,7 @@
     },
     "IAE:6803835533": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6803835533",
       "entity_type": "IAE",
@@ -1211,7 +1221,7 @@
     },
     "IAE:6803836399": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6803836399",
       "entity_type": "IAE",
@@ -1221,7 +1231,7 @@
     },
     "IAE:6803837531": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6803837531",
       "entity_type": "IAE",
@@ -1281,7 +1291,7 @@
     },
     "IAE:6827073987": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6827073987",
       "entity_type": "IAE",
@@ -1291,7 +1301,7 @@
     },
     "IAE:6827076270": {
       "app_id": "6767155434",
-      "app_name": "Home Workout Fitness ChairYoga",
+      "app_name": "Lazy Workout For Beginners Fit",
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "6827076270",
       "entity_type": "IAE",
@@ -1308,7 +1318,17 @@
       "name": "challenge1113",
       "platform": "IOS",
       "state": "PUBLISHED"
+    },
+    "IAE:6836154884": {
+      "app_id": "6767155434",
+      "app_name": "Lazy Workout For Beginners Fit",
+      "bundle_id": "com.seniorchairyoga.yuanqifitness",
+      "entity_id": "6836154884",
+      "entity_type": "IAE",
+      "name": "challenge111",
+      "platform": "IOS",
+      "state": "WAITING_FOR_REVIEW"
     }
   },
-  "updated_at": "2026-11-17T10:07:06.027525+00:00"
+  "updated_at": "2026-11-18T09:41:43.455007+00:00"
 }
