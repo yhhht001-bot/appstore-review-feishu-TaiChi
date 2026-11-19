@@ -48,7 +48,7 @@
       "entity_type": "APP_VERSION",
       "name": "1.0.0",
       "platform": "IOS",
-      "state": "PREPARE_FOR_SUBMISSION"
+      "state": "REJECTED"
     },
     "APP_VERSION:22539efe-454a-4a41-8506-51b2e3aa3dfe": {
       "app_id": "6758745743",
@@ -266,7 +266,7 @@
       "bundle_id": "com.taichisenior.yuanqifitness",
       "entity_id": "825a1402-5ef0-4199-9f19-5e7540070efa",
       "entity_type": "APP_VERSION",
-      "name": "2.4.2",
+      "name": "2.5.0",
       "platform": "IOS",
       "state": "PREPARE_FOR_SUBMISSION"
     },
@@ -1328,7 +1328,17 @@
       "name": "challenge111",
       "platform": "IOS",
       "state": "WAITING_FOR_REVIEW"
+    },
+    "IAE:6836684741": {
+      "app_id": "6758745743",
+      "app_name": "Tai Chi for Seniors Beginners",
+      "bundle_id": "com.taichisenior.yuanqifitness",
+      "entity_id": "6836684741",
+      "entity_type": "IAE",
+      "name": "Black Friday Beginners 2026",
+      "platform": "IOS",
+      "state": "DRAFT"
     }
   },
-  "updated_at": "2026-11-18T09:41:43.455007+00:00"
+  "updated_at": "2026-11-19T08:26:56.783987+00:00"
 }
