@@ -48,7 +48,7 @@
       "entity_type": "APP_VERSION",
       "name": "1.0.0",
       "platform": "IOS",
-      "state": "REJECTED"
+      "state": "WAITING_FOR_REVIEW"
     },
     "APP_VERSION:22539efe-454a-4a41-8506-51b2e3aa3dfe": {
       "app_id": "6758745743",
@@ -268,7 +268,7 @@
       "entity_type": "APP_VERSION",
       "name": "2.5.0",
       "platform": "IOS",
-      "state": "PREPARE_FOR_SUBMISSION"
+      "state": "IN_REVIEW"
     },
     "APP_VERSION:85faccd4-2567-48a5-836f-1107746c8aec": {
       "app_id": "6767155434",
@@ -276,9 +276,9 @@
       "bundle_id": "com.seniorchairyoga.yuanqifitness",
       "entity_id": "85faccd4-2567-48a5-836f-1107746c8aec",
       "entity_type": "APP_VERSION",
-      "name": "1.6.3",
+      "name": "1.7.0",
       "platform": "IOS",
-      "state": "PREPARE_FOR_SUBMISSION"
+      "state": "WAITING_FOR_REVIEW"
     },
     "APP_VERSION:862a46c1-89ff-48ec-adb8-5077c30d6413": {
       "app_id": "6808559218",
@@ -426,7 +426,7 @@
       "bundle_id": "com.walkingforseniors.yuanqifitness",
       "entity_id": "c52b23cc-b13e-4021-aa2a-3ba09636cc80",
       "entity_type": "APP_VERSION",
-      "name": "1.0.2",
+      "name": "1.1.0",
       "platform": "IOS",
       "state": "PREPARE_FOR_SUBMISSION"
     },
@@ -1227,7 +1227,7 @@
       "entity_type": "IAE",
       "name": "Betterme Chair Yoga",
       "platform": "IOS",
-      "state": "PAST"
+      "state": "ARCHIVED"
     },
     "IAE:6803837531": {
       "app_id": "6767155434",
@@ -1247,7 +1247,7 @@
       "entity_type": "IAE",
       "name": "Tai Chi Walking Class",
       "platform": "IOS",
-      "state": "PAST"
+      "state": "ARCHIVED"
     },
     "IAE:6803842327": {
       "app_id": "6758745743",
@@ -1317,7 +1317,7 @@
       "entity_type": "IAE",
       "name": "challenge1113",
       "platform": "IOS",
-      "state": "PUBLISHED"
+      "state": "ARCHIVED"
     },
     "IAE:6836154884": {
       "app_id": "6767155434",
@@ -1327,7 +1327,7 @@
       "entity_type": "IAE",
       "name": "challenge111",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "PUBLISHED"
     },
     "IAE:6836684741": {
       "app_id": "6758745743",
@@ -1337,8 +1337,58 @@
       "entity_type": "IAE",
       "name": "Black Friday Beginners 2026",
       "platform": "IOS",
+      "state": "WAITING_FOR_REVIEW"
+    },
+    "IAE:6836693085": {
+      "app_id": "6767155434",
+      "app_name": "Lazy Workout For Beginners Fit",
+      "bundle_id": "com.seniorchairyoga.yuanqifitness",
+      "entity_id": "6836693085",
+      "entity_type": "IAE",
+      "name": "Black Friday Home Fitness 2026",
+      "platform": "IOS",
+      "state": "WAITING_FOR_REVIEW"
+    },
+    "IAE:6836696538": {
+      "app_id": "6812701733",
+      "app_name": "Health, Recovery Tracker: Ezly",
+      "bundle_id": "com.healthdata.ezly.yuanqifitness",
+      "entity_id": "6836696538",
+      "entity_type": "IAE",
+      "name": "Ezly Black Friday 2026",
+      "platform": "IOS",
+      "state": "WAITING_FOR_REVIEW"
+    },
+    "IAE:6836757151": {
+      "app_id": "6758745743",
+      "app_name": "Tai Chi for Seniors Beginners",
+      "bundle_id": "com.taichisenior.yuanqifitness",
+      "entity_id": "6836757151",
+      "entity_type": "IAE",
+      "name": "Joint Care Beginners 20261204",
+      "platform": "IOS",
       "state": "DRAFT"
+    },
+    "IAE:6836759832": {
+      "app_id": "6812701733",
+      "app_name": "Health, Recovery Tracker: Ezly",
+      "bundle_id": "com.healthdata.ezly.yuanqifitness",
+      "entity_id": "6836759832",
+      "entity_type": "IAE",
+      "name": "Ezly Heart Rate HRV Decoded Nov 2026",
+      "platform": "IOS",
+      "state": "WAITING_FOR_REVIEW"
+    },
+    "IAE:6836779698": {
+      "app_id": "6832877810",
+      "app_name": "Gym Beginner Workouts: Viamot",
+      "bundle_id": "com.gymplanner.viamot.yuanqifitness",
+      "entity_id": "6836779698",
+      "entity_type": "IAE",
+      "name": "First Gym Workout 20261125",
+      "platform": "IOS",
+      "state": "READY_FOR_REVIEW"
     }
   },
-  "updated_at": "2026-11-19T08:26:56.783987+00:00"
+  "updated_at": "2026-11-19T17:32:55.376535+00:00"
 }
