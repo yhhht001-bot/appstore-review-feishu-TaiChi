@@ -1337,7 +1337,7 @@
       "entity_type": "IAE",
       "name": "Black Friday Beginners 2026",
       "platform": "IOS",
-      "state": "IN_REVIEW"
+      "state": "ACCEPTED"
     },
     "IAE:6836693085": {
       "app_id": "6767155434",
@@ -1390,5 +1390,5 @@
       "state": "READY_FOR_REVIEW"
     }
   },
-  "updated_at": "2026-11-20T00:15:21.252491+00:00"
+  "updated_at": "2026-11-20T07:36:36.373721+00:00"
 }
