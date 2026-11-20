@@ -268,7 +268,7 @@
       "entity_type": "APP_VERSION",
       "name": "2.5.0",
       "platform": "IOS",
-      "state": "PENDING_DEVELOPER_RELEASE"
+      "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
     "APP_VERSION:85faccd4-2567-48a5-836f-1107746c8aec": {
       "app_id": "6767155434",
@@ -1388,7 +1388,27 @@
       "name": "First Gym Workout 20261125",
       "platform": "IOS",
       "state": "READY_FOR_REVIEW"
+    },
+    "IAE:6837228700": {
+      "app_id": "6808559218",
+      "app_name": "Walking for Seniors: Flourish",
+      "bundle_id": "com.walkingforseniors.yuanqifitness",
+      "entity_id": "6837228700",
+      "entity_type": "IAE",
+      "name": "Flourish Walk to Bloom 2026",
+      "platform": "IOS",
+      "state": "WAITING_FOR_REVIEW"
+    },
+    "IAE:6837231557": {
+      "app_id": "6832877810",
+      "app_name": "Gym Beginner Workouts: Viamot",
+      "bundle_id": "com.gymplanner.viamot.yuanqifitness",
+      "entity_id": "6837231557",
+      "entity_type": "IAE",
+      "name": "Black Friday Gym Kickoff 2026",
+      "platform": "IOS",
+      "state": "READY_FOR_REVIEW"
     }
   },
-  "updated_at": "2026-11-20T07:36:36.373721+00:00"
+  "updated_at": "2026-11-20T16:40:01.286958+00:00"
 }
