@@ -268,7 +268,7 @@
       "entity_type": "APP_VERSION",
       "name": "2.5.0",
       "platform": "IOS",
-      "state": "IN_REVIEW"
+      "state": "PENDING_DEVELOPER_RELEASE"
     },
     "APP_VERSION:85faccd4-2567-48a5-836f-1107746c8aec": {
       "app_id": "6767155434",
@@ -1337,7 +1337,7 @@
       "entity_type": "IAE",
       "name": "Black Friday Beginners 2026",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "IN_REVIEW"
     },
     "IAE:6836693085": {
       "app_id": "6767155434",
@@ -1357,7 +1357,7 @@
       "entity_type": "IAE",
       "name": "Ezly Black Friday 2026",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "PUBLISHED"
     },
     "IAE:6836757151": {
       "app_id": "6758745743",
@@ -1377,7 +1377,7 @@
       "entity_type": "IAE",
       "name": "Ezly Heart Rate HRV Decoded Nov 2026",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "APPROVED"
     },
     "IAE:6836779698": {
       "app_id": "6832877810",
@@ -1390,5 +1390,5 @@
       "state": "READY_FOR_REVIEW"
     }
   },
-  "updated_at": "2026-11-19T17:32:55.376535+00:00"
+  "updated_at": "2026-11-20T00:15:21.252491+00:00"
 }
