@@ -278,7 +278,7 @@
       "entity_type": "APP_VERSION",
       "name": "1.7.0",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "IN_REVIEW"
     },
     "APP_VERSION:862a46c1-89ff-48ec-adb8-5077c30d6413": {
       "app_id": "6808559218",
@@ -1347,7 +1347,7 @@
       "entity_type": "IAE",
       "name": "Black Friday Home Fitness 2026",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "IN_REVIEW"
     },
     "IAE:6836696538": {
       "app_id": "6812701733",
@@ -1397,7 +1397,7 @@
       "entity_type": "IAE",
       "name": "Flourish Walk to Bloom 2026",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "PUBLISHED"
     },
     "IAE:6837231557": {
       "app_id": "6832877810",
@@ -1410,5 +1410,5 @@
       "state": "READY_FOR_REVIEW"
     }
   },
-  "updated_at": "2026-11-21T12:03:32.792387+00:00"
+  "updated_at": "2026-11-21T19:37:51.448069+00:00"
 }
