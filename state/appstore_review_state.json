@@ -490,6 +490,16 @@
       "platform": "IOS",
       "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
+    "APP_VERSION:eb295656-6a32-47b9-a87c-62580a425470": {
+      "app_id": "6767155434",
+      "app_name": "Lazy Workout For Beginners Fit",
+      "bundle_id": "com.seniorchairyoga.yuanqifitness",
+      "entity_id": "eb295656-6a32-47b9-a87c-62580a425470",
+      "entity_type": "APP_VERSION",
+      "name": "1.7.1",
+      "platform": "IOS",
+      "state": "WAITING_FOR_REVIEW"
+    },
     "APP_VERSION:fdd13a5b-5aa5-452a-ad21-43124aa31e71": {
       "app_id": "6767155434",
       "app_name": "Lazy Workout For Beginners Fit",
@@ -882,6 +892,18 @@
       "parent_id": "f61b7b5b-09af-4e0f-b9b6-d8bf3c1f3af5",
       "platform": "IOS",
       "state": "APPROVED",
+      "version": "1"
+    },
+    "CPP:d2bf3196-56db-4d15-95b1-7b6254f7038e": {
+      "app_id": "6758745743",
+      "app_name": "Tai Chi for Seniors Beginners",
+      "bundle_id": "com.taichisenior.yuanqifitness",
+      "entity_id": "d2bf3196-56db-4d15-95b1-7b6254f7038e",
+      "entity_type": "CPP",
+      "name": "Blue Screenshots 20261125",
+      "parent_id": "d33b7bdb-0948-4d1f-9c79-4e6e180fc2c8",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION",
       "version": "1"
     },
     "CPP:e1b8cf27-56df-43a2-b7de-72e28c182f8e": {
@@ -1410,5 +1432,5 @@
       "state": "READY_FOR_REVIEW"
     }
   },
-  "updated_at": "2026-11-25T02:41:39.720136+00:00"
+  "updated_at": "2026-11-25T12:04:17.227929+00:00"
 }
