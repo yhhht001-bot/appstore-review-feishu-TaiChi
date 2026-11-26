@@ -1399,7 +1399,7 @@
       "entity_type": "IAE",
       "name": "Joint Care Beginners 20261204",
       "platform": "IOS",
-      "state": "WAITING_FOR_REVIEW"
+      "state": "APPROVED"
     },
     "IAE:6836759832": {
       "app_id": "6812701733",
@@ -1409,7 +1409,7 @@
       "entity_type": "IAE",
       "name": "Ezly Heart Rate HRV Decoded Nov 2026",
       "platform": "IOS",
-      "state": "APPROVED"
+      "state": "PUBLISHED"
     },
     "IAE:6836779698": {
       "app_id": "6832877810",
@@ -1442,5 +1442,5 @@
       "state": "READY_FOR_REVIEW"
     }
   },
-  "updated_at": "2026-11-26T13:31:01.161834+00:00"
+  "updated_at": "2026-11-26T22:46:34.021283+00:00"
 }
