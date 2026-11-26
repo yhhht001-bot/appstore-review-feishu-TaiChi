@@ -130,6 +130,16 @@
       "platform": "IOS",
       "state": "READY_FOR_SALE / READY_FOR_DISTRIBUTION"
     },
+    "APP_VERSION:49c1ba34-e567-4059-89be-2a8329ef4d04": {
+      "app_id": "6758745743",
+      "app_name": "Tai Chi for Seniors Beginners",
+      "bundle_id": "com.taichisenior.yuanqifitness",
+      "entity_id": "49c1ba34-e567-4059-89be-2a8329ef4d04",
+      "entity_type": "APP_VERSION",
+      "name": "2.5.1",
+      "platform": "IOS",
+      "state": "PREPARE_FOR_SUBMISSION"
+    },
     "APP_VERSION:4f85b5b9-304a-4a60-a712-8234f26d2d48": {
       "app_id": "6758745743",
       "app_name": "Tai Chi for Seniors Beginners",
@@ -1279,7 +1289,7 @@
       "entity_type": "IAE",
       "name": "Simple Life Challenge",
       "platform": "IOS",
-      "state": "PAST"
+      "state": "ARCHIVED"
     },
     "IAE:6803842399": {
       "app_id": "6758745743",
@@ -1309,7 +1319,7 @@
       "entity_type": "IAE",
       "name": "Halloween2",
       "platform": "IOS",
-      "state": "PUBLISHED"
+      "state": "PAST"
     },
     "IAE:6827073987": {
       "app_id": "6767155434",
@@ -1319,7 +1329,7 @@
       "entity_type": "IAE",
       "name": "Halloween1",
       "platform": "IOS",
-      "state": "PUBLISHED"
+      "state": "PAST"
     },
     "IAE:6827076270": {
       "app_id": "6767155434",
@@ -1329,7 +1339,7 @@
       "entity_type": "IAE",
       "name": "Halloween2",
       "platform": "IOS",
-      "state": "PUBLISHED"
+      "state": "PAST"
     },
     "IAE:6834304652": {
       "app_id": "6758745743",
@@ -1389,7 +1399,7 @@
       "entity_type": "IAE",
       "name": "Joint Care Beginners 20261204",
       "platform": "IOS",
-      "state": "DRAFT"
+      "state": "WAITING_FOR_REVIEW"
     },
     "IAE:6836759832": {
       "app_id": "6812701733",
@@ -1432,5 +1442,5 @@
       "state": "READY_FOR_REVIEW"
     }
   },
-  "updated_at": "2026-11-26T03:55:28.031632+00:00"
+  "updated_at": "2026-11-26T13:31:01.161834+00:00"
 }
